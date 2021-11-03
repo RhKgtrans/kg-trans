@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "KG TRANS",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
